@@ -1,6 +1,6 @@
 class Example{
     public static void main(Strin[] args){
-        System.out.println("wooh");
+        System.out.println("wooh hhh");
 
 
 
